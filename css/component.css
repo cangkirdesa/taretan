@@ -118,7 +118,7 @@
 
 .slideshow li {
 	width: 660px;
-	height: 560px;
+	height:auto;
 	position: absolute;
 	top: 50%;
 	left: 50%;
