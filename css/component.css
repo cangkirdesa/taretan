@@ -166,7 +166,7 @@
 	font-size: 200%;
 }
 /* tabel */
-tr {
+td, th {
     text-align: left;
     vertical-align: top;
 }
