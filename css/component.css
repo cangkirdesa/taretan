@@ -165,7 +165,11 @@
 	font-weight: 300;
 	font-size: 200%;
 }
-
+/* tabel */
+tr {
+    text-align: left;
+    vertical-align: top;
+}
 /* Navigation */
 .slideshow nav span {
 	position: fixed;
