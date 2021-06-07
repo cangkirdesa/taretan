@@ -166,6 +166,9 @@
 	font-size: 200%;
 }
 /* tabel */
+table#a tr {
+    border:1px dotted #47a3da
+}
 table#a td {
     font-weight: 300
 }
