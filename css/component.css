@@ -166,16 +166,8 @@
 	font-size: 200%;
 }
 /* tabel */
-table#a {
-    background: #fafafa;
-    border: 1px solid #eee;
-}
-table#a th {
-    background: #fff;
-}
-table#tr {
-    border-top: 1px solid #eee;
-    border-bottom: 1px solid #eee;
+table#a td {
+    font-weight: 300
 }
 td, th {
     text-align: left;
