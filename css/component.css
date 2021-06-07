@@ -170,7 +170,8 @@ table#a {
     margin-top:10px
 }
 table#a td {
-    font-weight: 300
+    font-weight: 300;
+    padding-left:5px
 }
 td, th {
     text-align: left;
