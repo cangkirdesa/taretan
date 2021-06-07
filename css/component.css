@@ -166,13 +166,16 @@
 	font-size: 200%;
 }
 /* tabel */
+table#a {
+    margin-top:10px
+}
 table#a td {
     font-weight: 300
 }
 td, th {
     text-align: left;
     vertical-align: top;
-    border:1px dotted #47a3da
+    border-bottom:1px dotted #47a3da
 }
 /* Navigation */
 .slideshow nav span {
